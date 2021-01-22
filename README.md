@@ -1,0 +1,1 @@
+Sample application to demonstrate [spring-cloud-commons #728: ReactiveLoadBalancer hangs console app](https://github.com/spring-cloud/spring-cloud-commons/issues/728)
